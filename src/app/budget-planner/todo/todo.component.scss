@@ -4,10 +4,13 @@ body {
 }
 
 .main-container {
-    background-color: #ffffff;
+    background-color: #3c6969;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.container {
     max-width: 800px;
     margin: 0 auto;
 }
@@ -98,8 +101,8 @@ body {
     align-items: center;
     border-radius: 20px;
     color: #ffffff;
-    width: 800px;
     margin: 0 auto;
+    margin-bottom: 10px;
 }
 
 .strikeout {
